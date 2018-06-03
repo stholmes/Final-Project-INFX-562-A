@@ -94,7 +94,7 @@ var svg4 = d3.select('div.solution')
 //Events
 d3.select('button.solution').on('click',function(){
     svg4.select('image')
-    .attr('xlink:href','images/compact.jpg')
+    .attr('xlink:href','images/compact.JPG')
     d3.select('button.current')
         .style('opacity', 1)
     d3.select('button.solution')
@@ -105,7 +105,7 @@ d3.select('button.solution').on('click',function(){
 d3.select('button.current').on('click', function(){
     
     svg4.select('image')
-        .attr('xlink:href','images/current.jpg')
+        .attr('xlink:href','images/current.JPG')
         d3.select('button.current')
         .style('opacity', .5)
     d3.select('button.solution')
