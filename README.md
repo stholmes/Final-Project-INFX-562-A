@@ -1,8 +1,8 @@
-#Final Project INFX 562 A
+# Final Project INFX 562 A
 Sneha Kamath & Stephen Holmes
 
-##Gerrymandering
-*An Explorable ExplanationP
+## Gerrymandering
+*An Explorable Explanation*
 
-######Webpage link
+###### Webpage link
 https://stholmes.github.io/index
