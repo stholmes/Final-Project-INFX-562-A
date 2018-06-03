@@ -86,7 +86,7 @@ var svg4 = d3.select('div.solution')
     .attr("xlink:href", 'images/compact_state.svg')
     .attr('x',-150)
     svg4.append('svg:image')
-        .attr('xlink:href','images/current.jpg')    
+        .attr('xlink:href','images/current.JPG')    
     
    
         
